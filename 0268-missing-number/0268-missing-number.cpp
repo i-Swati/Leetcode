@@ -2,12 +2,17 @@ class Solution {
 public:
     int missingNumber(vector<int>& arr) {
         int n=arr.size();
-        int sum=(n*(n+1)/2);
-        int s2=0;
-        for(int i=0; i<=n-1; i++){
-            s2=s2+arr[i];
+        int XOR1 = 0;
+        for (int i = 0; i <= n; i++) {
+            XOR1 = XOR1 ^ i;
         }
-        return sum-s2;
+        //instead of a traditional for loop, it is a range-based loop used to iterate through 
+        //the elemnts of the arr vector directly 
+        int XOR2 = 0;
+        for (int num : arr) {
+            XOR2 = XOR2 ^ num;
+        }
 
+        return XOR1 ^ XOR2;
     }
 };
