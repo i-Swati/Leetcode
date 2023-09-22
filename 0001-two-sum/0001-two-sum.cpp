@@ -1,14 +1,39 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& arr, int target) {
-        int n=arr.size();
-        for(int i=0; i<n; i++){
-            for(int j=i+1; j<n; j++){
-                if((arr[i]+arr[j])==target){
-                    return {i, j};
-                }
-            }
+    
+    vector<int> result;
+    int n=arr.size();
+
+    vector<pair<int, int>>indexedArr;
+    for(int i=0; i<n; i++){
+        indexedArr.push_back({arr[i], i});
+    }
+
+    sort(indexedArr.begin(), indexedArr.end());
+
+    int left=0;
+    int right=n-1;
+
+    while(left<right){
+        int currentSum=indexedArr[left].first+indexedArr[right].first;
+
+        if(currentSum==target){
+            result.push_back(indexedArr[left].second);
+            result.push_back(indexedArr[right].second);
+
+            return result;
         }
-        return {}; //No solution
+
+        else if(currentSum<target){
+            left++;
+        }
+        
+        else{
+            right--;
+        }
+    }
+    return {}; //Return an empty vector if no solution is found.
+        
     }
 };
