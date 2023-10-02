@@ -9,20 +9,16 @@ public:
         for (char c : colors) {
             if (c == 'A') {
                 consecutiveA++;
+                if (consecutiveA >= 3) {
+                    aliceWins++;
+                }
                 consecutiveB = 0; // Reset consecutiveB
             } else if (c == 'B') {
                 consecutiveB++;
+                if (consecutiveB >= 3) {
+                    bobWins++;
+                }
                 consecutiveA = 0; // Reset consecutiveA
-            }
-
-            // Check for Alice's wins
-            if (consecutiveA >= 3) {
-                aliceWins++;
-            }
-
-            // Check for Bob's wins
-            if (consecutiveB >= 3) {
-                bobWins++;
             }
         }
 
