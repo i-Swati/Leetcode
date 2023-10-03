@@ -1,5 +1,6 @@
 class Solution {
 public:
+//BRUTE
     int numIdenticalPairs(vector<int>& arr) {
         int n=arr.size();
         vector<int>result;
