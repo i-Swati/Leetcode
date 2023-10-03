@@ -7,7 +7,7 @@ public:
         set<vector<int>>st;
         vector<vector<int>>result;
 
-        for(int i=0; i<n-2; i++){
+        for(int i=0; i<n-2; i++){ //in order to find triplets, we need at least three elements, so there's no need to iterate beyond n - 2.
             int low=i+1;
             int high=n-1;
             while(low<high){
