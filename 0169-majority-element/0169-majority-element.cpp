@@ -1,6 +1,5 @@
 class Solution {
 public:
-//OPTIMAL
     int majorityElement(vector<int>& arr) {
         int elem=0;
         int cnt=0;
