@@ -1,24 +1,23 @@
 class Solution {
 public:
-//BRUTE
     vector<int> rearrangeArray(vector<int>& arr) {
-        int n=arr.size();
+        //BETTER/OPTIMAL
 
-        vector<int>pos;
-        vector<int>neg;
+        int n=arr.size();
+        vector<int>result(n);
+        int posInd=0;
+        int negInd=1;
 
         for(int i=0; i<n; i++){
             if(arr[i]>0){
-                pos.push_back(arr[i]);
+                result[posInd]=arr[i];
+                posInd=posInd+2;
             }
             else{
-                neg.push_back(arr[i]);
+                result[negInd]=arr[i];
+                negInd=negInd+2;
             }
         }
-        for(int i=0; i<n/2; i++){
-            arr[2*i]=pos[i];
-            arr[2*i+1]=neg[i];
-        }
-        return arr;
+        return result;
     }
 };
