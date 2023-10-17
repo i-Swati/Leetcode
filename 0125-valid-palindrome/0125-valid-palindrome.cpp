@@ -2,7 +2,7 @@ class Solution {
 public:
     bool isPalindrome(string s) {
         int low=0;
-        int high=s.size()-1;
+        int high=s.length()-1;
 
         while(low<high){
             if(!isalnum(s[low])){ //checks whether the string starting from lower index is alphanumeric
