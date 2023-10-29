@@ -8,23 +8,44 @@
  */
 class Solution {
 public:
-//TC=2 O(n)
     ListNode *getIntersectionNode(ListNode *l1, ListNode *l2) {
-        map<ListNode*, bool> mp;
-        //insert into map
-        ListNode* t1=l1;
-            while(t1!=NULL){
-                mp[t1]=true;
-                t1=t1->next;
+        ListNode* temp1=l1;
+        int len1=0;
+
+        while(temp1!=NULL){
+            temp1=temp1->next;
+            len1++;
+        }
+
+        ListNode* temp2=l2;
+        int len2=0;
+
+        while(temp2!=NULL){
+            temp2=temp2->next;
+            len2++;
+        }
+
+        int diff=abs(len2-len1);
+
+        temp1=l1;
+        temp2=l2;
+
+        if(len1>len2){
+            for(int i=0; i<diff; i++){
+                temp1=temp1->next;
             }
 
-        ListNode* t2=l2;
-            while(t2!=NULL){
-                if(mp.find(t2)!=mp.end()){
-                    return t2;
-                }
-                t2=t2->next;
+        }
+        else{
+            for(int i=0; i<diff; i++){
+                temp2=temp2->next;
             }
-        return NULL;
+        }
+        while(temp1!=temp2){
+            temp1=temp1->next;
+            temp2=temp2->next;
+        }
+        return temp1;
+        
     }
 };
