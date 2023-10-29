@@ -14,7 +14,7 @@ public:
         ListNode* temp=head;
         int len=0;
 
-        while(temp!=nullptr){
+        while(temp!=NULL){
             temp=temp->next;
             len++;
         }
