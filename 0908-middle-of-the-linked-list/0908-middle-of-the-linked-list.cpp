@@ -26,7 +26,7 @@ public:
             return t1;            
         }
         else{//odd
-            for(int i=1; i<(len/2)+1; i++){
+            for(int i=1; i<(len+1)/2; i++){
                 t1=t1->next;
             }
             return t1;
