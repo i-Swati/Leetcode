@@ -25,11 +25,11 @@ public:
         if(root==NULL){
             return 0;
         }
-        
         int left=diameterOfBinaryTree(root->left);
         int right=diameterOfBinaryTree(root->right);
-        int diameter=height(root->left)+height(root->right);
+        int dia=height(root->left)+height(root->right);
 
-        return max(left, max(right, diameter));
+        return max(dia, max(left, right));
+        
     }
 };
