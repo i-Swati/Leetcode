@@ -8,38 +8,40 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
- //BRUTE FORCE
- //TC=O(2 cnt)
- //SC=O(1)
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
+        //sabse pehle length calculate krenge...cnt
         int cnt=0;
         ListNode* temp=head;
-
         while(temp!=NULL){
-            cnt++;
             temp=temp->next;
+            cnt++;
         }
-        if(cnt==n){                 //agar length n ke barabar ho, yaani head delete krna hoga
+
+        //if cnt (i.e. length)==n ho jayega, matlab headnode delete krenge
+        if(cnt==n){
             ListNode* newHead=head->next;
             delete head;
             return newHead;
         }
+
+        //ab other cases ke liye, jisme cnt!=n; yaani n ki kuch value hogi
         int res=cnt-n;
         temp=head;
 
         while(temp!=NULL){
             res--;
-
             if(res==0){
                 break;
             }
-            temp=temp->next;
+        temp=temp->next;
         }
+
         ListNode* delNode=temp->next;
         temp->next=temp->next->next;
         delete delNode;
         return head;
-    }        
+
+    }
 };
