@@ -8,6 +8,9 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+ //BRUTE FORCE
+ //TC=O(len)+O(len-n)~O(2 len)
+ //SC=O(1)
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
