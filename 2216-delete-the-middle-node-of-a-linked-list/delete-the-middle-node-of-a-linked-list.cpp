@@ -9,7 +9,7 @@ public:
             count++;
             temp = temp->next;
         }
-        cout<<count<<endl;
+        cout<<count<<endl; //printed count to check/ for understanding
         
 
         temp = head; // Reset temp to head
@@ -22,7 +22,8 @@ public:
             // For odd count of elements
             n = (count + 1) / 2; // For the exact middle node in odd cases
         }
-    cout<<n;
+        cout<<n; //for understanding
+        
         ListNode* prev = NULL;
 
         // Traverse to the node before the middle node
