@@ -1,4 +1,5 @@
 class Solution {
+
 public:
     bool isValid(string str) {
         stack<char> s;
@@ -12,7 +13,6 @@ public:
             if((ch=='(')|| (ch=='{')|| (ch=='[')){
                 s.push(ch);
             }
-
             else{
                 if(!s.empty()){
                     char top=s.top();
@@ -23,7 +23,7 @@ public:
                         return false;
                     }
                 }
-                else{ //stack is empty
+                else{
                     return false;
                 }
             }
