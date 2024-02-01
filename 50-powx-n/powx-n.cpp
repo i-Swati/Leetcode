@@ -2,12 +2,15 @@ class Solution {
 public:
     double myPow(double x, int n) {
 
-        // Handle the case of INT_MIN
+        // Handle the case of INT_MIN: Handling INT_MIN separately helps 
+        //prevent integer overflow and ensures correct 
+        //calculations for extreme cases.
+
         if (n == INT_MIN) {
             x = x * x;
             n = n / 2;
         }
-        
+
         //base case
         if(n==0){
             return 1.0;
