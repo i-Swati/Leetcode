@@ -1,17 +1,16 @@
 class Solution {
 public:
     int firstUniqChar(string s) {
-        unordered_map<char, int> freq;
+        unordered_map<char, int> frequency; //unordered map tostore the frequency of characters in string
+        //count the frequency of each character in the string
 
-        //count the frequency of each character
-
-        for(char ch:s){
-            freq[ch]++;
+        for(char ch:s){ //for a character 'ch' in the string s
+            frequency[ch]++;
         }
 
-        //iterate through the string to find first non-repeating character
+        //iterate through the string
         for(int i=0; i<s.length(); i++){
-            if(freq[s[i]]==1){
+            if(frequency[s[i]]==1){
                 return i;
             }
         }
