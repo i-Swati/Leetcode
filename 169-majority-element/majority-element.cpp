@@ -11,7 +11,7 @@ public:
             }
             else{
                 cnt--;
-                if (cnt == 0) {
+                if (cnt==0) {
                     elem = arr[i];
                     cnt = 1;
                 }
