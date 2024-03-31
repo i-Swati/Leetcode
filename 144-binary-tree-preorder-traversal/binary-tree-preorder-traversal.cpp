@@ -22,6 +22,7 @@ public:
     }
     vector<int> preorderTraversal(TreeNode* root) {
         vector<int> ans;
+
         if(root==NULL){
             return ans;
         }
