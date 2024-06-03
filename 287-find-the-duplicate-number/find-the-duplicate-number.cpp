@@ -1,13 +1,17 @@
+#include <vector>
+
 class Solution {
 public:
-    int findDuplicate(vector<int>& arr) {
-        //sort the array
-        sort(arr.begin(), arr.end());
-        for(int i=1; i<arr.size(); i++){
-            if(arr[i]==arr[i-1]){
-                return arr[i];
+    int findDuplicate(std::vector<int>& arr) {
+        vector<int> visited(arr.size(), 0);
+
+        for (int i:arr) {
+            if (visited[i] == 1) {
+                return i;
             }
+            visited[i]++;
         }
-        return -1;
+
+        return -1; // No duplicate found
     }
 };
