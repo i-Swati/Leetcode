@@ -1,5 +1,4 @@
-#include <vector>
-
+//BETTER
 class Solution {
 public:
     int findDuplicate(std::vector<int>& arr) {
