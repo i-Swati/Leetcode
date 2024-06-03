@@ -1,15 +1,21 @@
+//OPTIMAL
 class Solution {
 public:
-    int findDuplicate(std::vector<int>& arr) {
-        vector<int> visited(arr.size(), 0);
+    int findDuplicate(vector<int>& nums) {
+        int slow= nums[0];
+        int fast= nums[0];
 
-        for (int i=0; i<arr.size(); i++) {
-            if (visited[arr[i]] == 1) {
-                return arr[i];
-            }
-            visited[arr[i]]++;
+        do{
+            slow= nums[slow];
+            fast= nums[nums[fast]];
         }
+        while(slow!=fast);
 
-        return -1; // No duplicate found
+        fast= nums[0];
+        while(slow!= fast){
+            slow= nums[slow];
+            fast= nums[fast];
+        }
+        return fast;
     }
 };
