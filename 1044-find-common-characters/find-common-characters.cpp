@@ -28,3 +28,5 @@ public:
         return common;
     }
 };
+//TC= O(N x L); no. of words into max length of word
+//SC= O(N x L)
