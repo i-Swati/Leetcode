@@ -18,8 +18,8 @@ public:
         int lh=height(root->left);
         int rh=height(root->right);
 
-        int maxi=max(lh, rh);
-        return maxi+1;
+        
+        return max(lh, rh)+1;
     }
     bool isBalanced(TreeNode* root) {
         if(root==NULL){
