@@ -73,3 +73,11 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/i-Swati/Leetcode/tree/master/0572-subtree-of-another-tree) |
+# Array
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/i-Swati/Leetcode/tree/master/0198-house-robber) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/i-Swati/Leetcode/tree/master/0198-house-robber) |
