@@ -1,7 +1,7 @@
 class Solution {
 public:
     //DP
-    int dp[201][201];
+    int dp[200][200];
     int solve(int i, int j, vector<vector<int>>& grid){
         if(i==0 && j==0)    return grid[i][j];
         if(i<0 || j<0)  return INT_MAX;
