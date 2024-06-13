@@ -3,7 +3,6 @@ public:
     int dp[301][5001];
     int recursive(int ind, int target, vector<int>& coins){
         //base cases
-        if(target==0)   return 1;
         if(ind==0){
             if(target%coins[ind] == 0)  return 1;
             else return 0;
