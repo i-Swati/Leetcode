@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/i-Swati/Leetcode/tree/master/0409-longest-palindrome) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/i-Swati/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Tree
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [0064-minimum-path-sum](https://github.com/i-Swati/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/i-Swati/Leetcode/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/i-Swati/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/i-Swati/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -101,3 +103,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/i-Swati/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/i-Swati/Leetcode/tree/master/0064-minimum-path-sum) |
+# Sorting
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/i-Swati/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
