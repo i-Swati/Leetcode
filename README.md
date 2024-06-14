@@ -69,6 +69,7 @@
 # String Matching
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/i-Swati/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0572-subtree-of-another-tree](https://github.com/i-Swati/Leetcode/tree/master/0572-subtree-of-another-tree) |
 # Hash Function
 |  |
@@ -90,6 +91,7 @@
 | [0064-minimum-path-sum](https://github.com/i-Swati/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/i-Swati/Leetcode/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/i-Swati/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/i-Swati/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 # Math
 |  |
 | ------- |
