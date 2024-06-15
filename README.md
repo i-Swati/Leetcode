@@ -71,6 +71,7 @@
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/i-Swati/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0572-subtree-of-another-tree](https://github.com/i-Swati/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0647-palindromic-substrings](https://github.com/i-Swati/Leetcode/tree/master/0647-palindromic-substrings) |
 # Hash Function
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [0198-house-robber](https://github.com/i-Swati/Leetcode/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/i-Swati/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/i-Swati/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0647-palindromic-substrings](https://github.com/i-Swati/Leetcode/tree/master/0647-palindromic-substrings) |
 # Math
 |  |
 | ------- |
@@ -109,3 +111,7 @@
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/i-Swati/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+# Two Pointers
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/i-Swati/Leetcode/tree/master/0647-palindromic-substrings) |
