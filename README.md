@@ -98,6 +98,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/i-Swati/Leetcode/tree/master/0062-unique-paths) |
+| [0633-sum-of-square-numbers](https://github.com/i-Swati/Leetcode/tree/master/0633-sum-of-square-numbers) |
 # Combinatorics
 |  |
 | ------- |
@@ -114,4 +115,9 @@
 # Two Pointers
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/i-Swati/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/i-Swati/Leetcode/tree/master/0647-palindromic-substrings) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/i-Swati/Leetcode/tree/master/0633-sum-of-square-numbers) |
