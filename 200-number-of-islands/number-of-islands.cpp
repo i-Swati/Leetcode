@@ -16,7 +16,7 @@ int n, m;
             q.pop();
 
             // Traverse through the neighbors and mark them visited if they are land
-            for (int i = 0; i < 4; ++i) {
+            for (int i = 0; i < 4; i++) {
                 int nrow = row + drow[i];
                 int ncol = col + dcol[i];
 
