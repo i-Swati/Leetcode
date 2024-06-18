@@ -50,6 +50,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/i-Swati/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/i-Swati/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/i-Swati/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/i-Swati/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/i-Swati/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/i-Swati/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/i-Swati/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/i-Swati/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/i-Swati/Leetcode/tree/master/0226-invert-binary-tree) |
 # Binary Tree
 |  |
@@ -82,6 +84,7 @@
 | [0063-unique-paths-ii](https://github.com/i-Swati/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/i-Swati/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/i-Swati/Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/i-Swati/Leetcode/tree/master/0200-number-of-islands) |
 | [0416-partition-equal-subset-sum](https://github.com/i-Swati/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/i-Swati/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Dynamic Programming
@@ -108,6 +111,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/i-Swati/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/i-Swati/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/i-Swati/Leetcode/tree/master/0200-number-of-islands) |
 # Sorting
 |  |
 | ------- |
@@ -121,3 +125,7 @@
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/i-Swati/Leetcode/tree/master/0633-sum-of-square-numbers) |
+# Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/i-Swati/Leetcode/tree/master/0200-number-of-islands) |
