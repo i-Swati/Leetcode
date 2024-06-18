@@ -21,7 +21,7 @@ int n, m;
                 int ncol = col + dcol[i];
 
                 if (nrow >= 0 && nrow < n && ncol >= 0 && ncol < m && //check for validity
-                    grid[nrow][ncol] == '1' && !vis[nrow][ncol]) { // Check for land
+                    grid[nrow][ncol] == '1' && !vis[nrow][ncol]) { // Check for land and visited
                     vis[nrow][ncol] = 1;
                     q.push({nrow, ncol});
                 }
