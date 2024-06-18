@@ -1,29 +1,46 @@
 class Solution {
 public:
-    int n, m;
-    void dfs(int row, int col, vector<vector<int>>& visited, vector<vector<char>>& grid){
-        if(row<0 || col<0 || row>=n || col>=m) return;
-    
-        if(grid[row][col]=='0' || visited[row][col]==1) return;  
-        visited[row][col]= 1;
+int n, m;
+    void bfs(int row, int col, vector<vector<int>> &vis, vector<vector<char>> &grid) {
+        vis[row][col] = 1;
+        queue<pair<int, int>> q;
+        q.push({row, col});
 
-        dfs(row-1, col, visited, grid);
-        dfs(row+1, col, visited, grid);
-        dfs(row, col-1, visited, grid);
-        dfs(row, col+1, visited, grid);
+        // Directions for moving up, down, left, and right
+        vector<int> drow = {-1, 1, 0, 0};
+        vector<int> dcol = {0, 0, -1, 1};
+
+        while (!q.empty()) {
+            row = q.front().first;
+            col = q.front().second;
+            q.pop();
+
+            // Traverse through the neighbors and mark them visited if they are land
+            for (int i = 0; i < 4; ++i) {
+                int nrow = row + drow[i];
+                int ncol = col + dcol[i];
+
+                if (nrow >= 0 && nrow < n && ncol >= 0 && ncol < m && //check for validity
+                    grid[nrow][ncol] == '1' && !vis[nrow][ncol]) { // Check for land
+                    vis[nrow][ncol] = 1;
+                    q.push({nrow, ncol});
+                }
+            }
+        }
     }
+
     int numIslands(vector<vector<char>>& grid) {
-        n= grid.size();
-        m= grid[0].size();
-        vector<vector<int>> visited(n, vector<int>(m, 0));
+        n = grid.size();
+        m = grid[0].size();
 
-        int cnt= 0;
+        vector<vector<int>> vis(n, vector<int>(m, 0));
+        int cnt = 0;
 
-        for(int i= 0; i<n; i++){
-            for(int j=0; j<m; j++){
-                if(visited[i][j]==0 && grid[i][j]=='1'){
+        for (int row = 0; row < n; ++row) {
+            for (int col = 0; col < m; ++col) {
+                if (!vis[row][col] && grid[row][col] == '1') {
                     cnt++;
-                    dfs(i, j, visited, grid);
+                    bfs(row, col, vis, grid);
                 }
             }
         }
