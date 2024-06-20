@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int check(vector<int>& bloomDay, int k, int mid) {
+    int cntBouq(vector<int>& bloomDay, int k, int mid) {
         int flower = 0;
         int bouq = 0;
 
@@ -35,7 +35,7 @@ public:
         while (minDay <= maxDay) {
             int mid = minDay + (maxDay - minDay) / 2;
 
-            if (check(bloomDay, k, mid)>=m) {
+            if (cntBouq(bloomDay, k, mid)>=m) {
                 result = mid;
                 maxDay = mid - 1; // try for smaller days to minimize the days
             } else {
