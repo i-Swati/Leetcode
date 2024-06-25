@@ -13,10 +13,12 @@ class Solution {
 public:
     int sum= 0;
     void solve(TreeNode* root){
-        if(!root)   return;
+        if(root==NULL)  return;
 
         solve(root->right);
+
         sum= sum + root->val;
+
         root->val= sum;
 
         solve(root->left);
