@@ -129,3 +129,14 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/i-Swati/Leetcode/tree/master/0200-number-of-islands) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/i-Swati/Leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/i-Swati/Leetcode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
