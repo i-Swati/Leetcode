@@ -135,6 +135,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/i-Swati/Leetcode/tree/master/0001-two-sum) |
+| [0322-coin-change](https://github.com/i-Swati/Leetcode/tree/master/0322-coin-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/i-Swati/Leetcode/tree/master/0322-coin-change) |
 | [0801-is-graph-bipartite](https://github.com/i-Swati/Leetcode/tree/master/0801-is-graph-bipartite) |
 ## Union Find
 |  |
@@ -155,4 +157,8 @@
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/i-Swati/Leetcode/tree/master/0801-is-graph-bipartite) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/i-Swati/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
