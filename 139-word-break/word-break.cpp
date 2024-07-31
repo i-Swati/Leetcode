@@ -9,13 +9,10 @@ public:
 
         if(dp[idx]!=-1) return dp[idx];
 
-        if(st.find(s) != st.end())  return true;
-
-
-        for(int l= 1; l<=n; l++){
+        for(int l= 1; l<=n; l++){ //fnd substrings
             string temp= s.substr(idx, l);
 
-            if(st.find(temp) != st.end() && solve(idx + l, s, n))  return dp[idx]= true;
+            if(st.find(temp) != st.end() && solve(idx + l, s, n))  return dp[idx]= true; //check substrings
         }
         return dp[idx]= false;
     }
