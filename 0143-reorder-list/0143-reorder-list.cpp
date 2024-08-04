@@ -41,5 +41,6 @@ public:
             reorderedArr[k]->next = reorderedArr[k + 1];
         }
         reorderedArr.back()->next = nullptr;
+        //set the next pointer of the last node in reorderedArr to nullptr to mark the end of the list.
     }
 };
