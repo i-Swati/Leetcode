@@ -161,4 +161,20 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/i-Swati/Leetcode/tree/master/0322-coin-change) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/i-Swati/Leetcode/tree/master/0143-reorder-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/i-Swati/Leetcode/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/i-Swati/Leetcode/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/i-Swati/Leetcode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
