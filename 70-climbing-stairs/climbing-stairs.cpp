@@ -4,12 +4,13 @@ public:
         if(ind==0)  return 1;
         if(ind<0)   return 0;
 
-        if(dp[ind] != -1)   return dp[ind];
+        if(dp[ind]!=-1) return dp[ind];
 
-        int step_one= solve(ind-1, dp);
-        int step_two= solve(ind-2, dp);
+        int step_1= solve(ind-1, dp);
+        int step_2= solve(ind-2, dp);
 
-        return dp[ind]= step_one + step_two;
+        return dp[ind]=step_1 + step_2;
+
     }
     int climbStairs(int n) {
         vector<int> dp(n+1, -1);
