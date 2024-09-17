@@ -1,5 +1,7 @@
 class Solution {
 public:
+//TC= O(m+n)
+//SC= O(m+n)
     vector<string> uncommonFromSentences(string s1, string s2) {
         s1.push_back(' ');
         s2.push_back(' ');
@@ -7,7 +9,7 @@ public:
         string temp= "";
         unordered_map<string, int> mp;
         vector<string> ans;
-        
+
         for(int i= 0; i<s1.length(); i++){
             if(s1[i]!=' '){
                 temp.push_back(s1[i]);
