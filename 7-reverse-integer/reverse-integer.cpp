@@ -4,12 +4,11 @@ public:
         
         int revNum= 0;//x= 123
 
-        while(x!=0){
-        
-        int last_dig= x%10; //123 % 10= 3 
+        while(x!=0){        
+        int last_dig= x%10; //123 % 10= 3
 
         // Check for overflow before updating revNum
-        if (revNum > INT_MAX / 10 || (revNum == INT_MAX / 10 && last_dig > 7) || (revNum < INT_MIN/10)) {
+        if (revNum > INT_MAX / 10 || (revNum < INT_MIN/10)){
             return 0; // Return 0 if it would overflow
         }
 
@@ -17,10 +16,6 @@ public:
 
         x= x/10;
         }            
-
-        /*if(isNeg){
-            return -revNum;
-        }*/
         return revNum;      
     }
 };
