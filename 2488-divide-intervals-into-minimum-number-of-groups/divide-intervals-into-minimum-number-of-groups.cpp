@@ -1,5 +1,6 @@
 class Solution {
 public:
+//SC- O(n) + O(n)== O(n)
     int minGroups(vector<vector<int>>& intervals) {
         //sort based on starting points
         sort(intervals.begin(), intervals.end()); //O(n log n)
