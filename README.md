@@ -136,11 +136,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/i-Swati/Leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/i-Swati/Leetcode/tree/master/0053-maximum-subarray) |
+| [0128-longest-consecutive-sequence](https://github.com/i-Swati/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0322-coin-change](https://github.com/i-Swati/Leetcode/tree/master/0322-coin-change) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/i-Swati/Leetcode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/i-Swati/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -153,6 +155,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/i-Swati/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0801-is-graph-bipartite](https://github.com/i-Swati/Leetcode/tree/master/0801-is-graph-bipartite) |
 ## Graph
 |  |
