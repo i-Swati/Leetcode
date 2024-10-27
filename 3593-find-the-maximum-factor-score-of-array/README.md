@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-maximum-factor-score-of-array">3593. Find the Maximum Factor Score of Array</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-the-maximum-factor-score-of-array">Find the Maximum Factor Score of Array</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an integer array <code>nums</code>.</p>
 
 <p>The <strong>factor score</strong> of an array is defined as the <em>product</em> of the LCM and GCD of all elements of that array.</p>
 
