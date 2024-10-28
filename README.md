@@ -138,6 +138,7 @@
 | [0053-maximum-subarray](https://github.com/i-Swati/Leetcode/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/i-Swati/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0322-coin-change](https://github.com/i-Swati/Leetcode/tree/master/0322-coin-change) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/i-Swati/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -186,4 +187,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/i-Swati/Leetcode/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/i-Swati/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/i-Swati/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
