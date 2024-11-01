@@ -207,4 +207,8 @@
 | ------- |
 | [0078-subsets](https://github.com/i-Swati/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/i-Swati/Leetcode/tree/master/0090-subsets-ii) |
+## String
+|  |
+| ------- |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/i-Swati/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 <!---LeetCode Topics End-->
