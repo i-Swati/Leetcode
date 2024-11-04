@@ -211,4 +211,5 @@
 |  |
 | ------- |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/i-Swati/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2580-circular-sentence](https://github.com/i-Swati/Leetcode/tree/master/2580-circular-sentence) |
 <!---LeetCode Topics End-->
