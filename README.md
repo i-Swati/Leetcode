@@ -136,6 +136,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/i-Swati/Leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/i-Swati/Leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/i-Swati/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/i-Swati/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/i-Swati/Leetcode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/i-Swati/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/i-Swati/Leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/i-Swati/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/i-Swati/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Depth-First Search
 |  |
@@ -212,4 +214,8 @@
 | ------- |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/i-Swati/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2580-circular-sentence](https://github.com/i-Swati/Leetcode/tree/master/2580-circular-sentence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/i-Swati/Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
