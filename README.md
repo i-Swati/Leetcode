@@ -143,6 +143,7 @@
 | [0119-pascals-triangle-ii](https://github.com/i-Swati/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/i-Swati/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0322-coin-change](https://github.com/i-Swati/Leetcode/tree/master/0322-coin-change) |
+| [1876-map-of-highest-peak](https://github.com/i-Swati/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/i-Swati/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/i-Swati/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
@@ -161,6 +162,7 @@
 | ------- |
 | [0322-coin-change](https://github.com/i-Swati/Leetcode/tree/master/0322-coin-change) |
 | [0801-is-graph-bipartite](https://github.com/i-Swati/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [1876-map-of-highest-peak](https://github.com/i-Swati/Leetcode/tree/master/1876-map-of-highest-peak) |
 ## Union Find
 |  |
 | ------- |
@@ -226,6 +228,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/i-Swati/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1876-map-of-highest-peak](https://github.com/i-Swati/Leetcode/tree/master/1876-map-of-highest-peak) |
 ## Prefix Sum
 |  |
 | ------- |
