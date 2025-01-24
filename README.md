@@ -158,12 +158,14 @@
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/i-Swati/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/i-Swati/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/i-Swati/Leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/i-Swati/Leetcode/tree/master/0322-coin-change) |
 | [0801-is-graph-bipartite](https://github.com/i-Swati/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/i-Swati/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/i-Swati/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/i-Swati/Leetcode/tree/master/1876-map-of-highest-peak) |
 ## Union Find
@@ -176,6 +178,7 @@
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/i-Swati/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/i-Swati/Leetcode/tree/master/0820-find-eventual-safe-states) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -242,4 +245,8 @@
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/i-Swati/Leetcode/tree/master/1396-count-servers-that-communicate) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/i-Swati/Leetcode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
