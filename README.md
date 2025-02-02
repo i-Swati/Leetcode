@@ -145,6 +145,7 @@
 | [0322-coin-change](https://github.com/i-Swati/Leetcode/tree/master/0322-coin-change) |
 | [1396-count-servers-that-communicate](https://github.com/i-Swati/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/i-Swati/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/i-Swati/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/i-Swati/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/i-Swati/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3429-special-array-i](https://github.com/i-Swati/Leetcode/tree/master/3429-special-array-i) |
