@@ -8,14 +8,13 @@ public:
         }
 
         
-        if(s==goal){
-            string sorted_s= s;
-            sort(sorted_s.begin(), sorted_s.end());
-
-            for(int i= 0; i<sorted_s.length()-1; i++){
-                if(sorted_s[i]==sorted_s[i+1])  return true;
+       if (s == goal) {
+            unordered_map<char, int> freq;  // Hash map to store character counts
+            for (char c : s) {
+                freq[c]++;
+                if (freq[c] > 1) return true;  // Found a duplicate character
             }
-            return false;
+        return false;
         }
 
         for(int i= 0; i<s.length(); i++){
