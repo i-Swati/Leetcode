@@ -143,6 +143,7 @@
 | [0119-pascals-triangle-ii](https://github.com/i-Swati/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/i-Swati/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0322-coin-change](https://github.com/i-Swati/Leetcode/tree/master/0322-coin-change) |
+| [1364-tuple-with-same-product](https://github.com/i-Swati/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/i-Swati/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/i-Swati/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/i-Swati/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -158,6 +159,7 @@
 | [0073-set-matrix-zeroes](https://github.com/i-Swati/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/i-Swati/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0889-buddy-strings](https://github.com/i-Swati/Leetcode/tree/master/0889-buddy-strings) |
+| [1364-tuple-with-same-product](https://github.com/i-Swati/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/i-Swati/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/i-Swati/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Depth-First Search
@@ -252,6 +254,7 @@
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/i-Swati/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/i-Swati/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/i-Swati/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Topological Sort
