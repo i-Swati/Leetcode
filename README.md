@@ -152,6 +152,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/i-Swati/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/i-Swati/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/i-Swati/Leetcode/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/i-Swati/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,6 +163,7 @@
 | [1364-tuple-with-same-product](https://github.com/i-Swati/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/i-Swati/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/i-Swati/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/i-Swati/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -261,4 +263,8 @@
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/i-Swati/Leetcode/tree/master/0820-find-eventual-safe-states) |
+## Simulation
+|  |
+| ------- |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/i-Swati/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 <!---LeetCode Topics End-->
