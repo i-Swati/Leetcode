@@ -162,6 +162,7 @@
 | [0889-buddy-strings](https://github.com/i-Swati/Leetcode/tree/master/0889-buddy-strings) |
 | [1364-tuple-with-same-product](https://github.com/i-Swati/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/i-Swati/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2434-design-a-number-container-system](https://github.com/i-Swati/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/i-Swati/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/i-Swati/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Depth-First Search
@@ -267,4 +268,16 @@
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/i-Swati/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/i-Swati/Leetcode/tree/master/2434-design-a-number-container-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/i-Swati/Leetcode/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/i-Swati/Leetcode/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
