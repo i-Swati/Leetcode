@@ -225,6 +225,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/i-Swati/Leetcode/tree/master/0007-reverse-integer) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/i-Swati/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/i-Swati/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Number Theory
