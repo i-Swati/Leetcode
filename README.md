@@ -150,6 +150,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/i-Swati/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/i-Swati/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/i-Swati/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/i-Swati/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/i-Swati/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/i-Swati/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/i-Swati/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
