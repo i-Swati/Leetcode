@@ -18,7 +18,7 @@ public:
             }
             mp[val]++;
         }
-        long long tp= (n*(n-1))/2;
+        long long tp= (pow(n, 2)-n)/2;
         return tp - gp; //bp
     }
 };
