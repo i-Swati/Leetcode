@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-nice-pairs-in-an-array">1925. Count Nice Pairs in an Array</a></h2><h3>Medium</h3><hr><p>You are given an array <code>nums</code> that consists of non-negative integers. Let us define <code>rev(x)</code> as the reverse of the non-negative integer <code>x</code>. For example, <code>rev(123) = 321</code>, and <code>rev(120) = 21</code>. A pair of indices <code>(i, j)</code> is <strong>nice</strong> if it satisfies all of the following conditions:</p>
+<h2><a href="https://leetcode.com/problems/count-nice-pairs-in-an-array">Count Nice Pairs in an Array</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an array <code>nums</code> that consists of non-negative integers. Let us define <code>rev(x)</code> as the reverse of the non-negative integer <code>x</code>. For example, <code>rev(123) = 321</code>, and <code>rev(120) = 21</code>. A pair of indices <code>(i, j)</code> is <strong>nice</strong> if it satisfies all of the following conditions:</p>
 
 <ul>
 	<li><code>0 &lt;= i &lt; j &lt; nums.length</code></li>
