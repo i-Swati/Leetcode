@@ -216,6 +216,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/i-Swati/Leetcode/tree/master/0143-reorder-list) |
+| [3447-clear-digits](https://github.com/i-Swati/Leetcode/tree/master/3447-clear-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -254,6 +255,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/i-Swati/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/i-Swati/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2580-circular-sentence](https://github.com/i-Swati/Leetcode/tree/master/2580-circular-sentence) |
+| [3447-clear-digits](https://github.com/i-Swati/Leetcode/tree/master/3447-clear-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -281,6 +283,7 @@
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/i-Swati/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/i-Swati/Leetcode/tree/master/3447-clear-digits) |
 ## Design
 |  |
 | ------- |
