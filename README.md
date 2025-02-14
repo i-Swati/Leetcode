@@ -145,6 +145,7 @@
 | [0322-coin-change](https://github.com/i-Swati/Leetcode/tree/master/0322-coin-change) |
 | [1364-tuple-with-same-product](https://github.com/i-Swati/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/i-Swati/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1477-product-of-the-last-k-numbers](https://github.com/i-Swati/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1876-map-of-highest-peak](https://github.com/i-Swati/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/i-Swati/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/i-Swati/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -233,6 +234,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/i-Swati/Leetcode/tree/master/0007-reverse-integer) |
+| [1477-product-of-the-last-k-numbers](https://github.com/i-Swati/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/i-Swati/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/i-Swati/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/i-Swati/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -270,6 +272,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/i-Swati/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/i-Swati/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Counting
 |  |
@@ -294,6 +297,7 @@
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/i-Swati/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/i-Swati/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
 |  |
@@ -309,4 +313,8 @@
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/i-Swati/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/i-Swati/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
