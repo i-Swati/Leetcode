@@ -167,6 +167,7 @@
 | [0073-set-matrix-zeroes](https://github.com/i-Swati/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/i-Swati/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0889-buddy-strings](https://github.com/i-Swati/Leetcode/tree/master/0889-buddy-strings) |
+| [1160-letter-tile-possibilities](https://github.com/i-Swati/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/i-Swati/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/i-Swati/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/i-Swati/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -248,6 +249,7 @@
 | ------- |
 | [0078-subsets](https://github.com/i-Swati/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/i-Swati/Leetcode/tree/master/0090-subsets-ii) |
+| [1160-letter-tile-possibilities](https://github.com/i-Swati/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/i-Swati/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bit Manipulation
 |  |
@@ -259,6 +261,7 @@
 |  |
 | ------- |
 | [0889-buddy-strings](https://github.com/i-Swati/Leetcode/tree/master/0889-buddy-strings) |
+| [1160-letter-tile-possibilities](https://github.com/i-Swati/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/i-Swati/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/i-Swati/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/i-Swati/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -279,6 +282,7 @@
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/i-Swati/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/i-Swati/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/i-Swati/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/i-Swati/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
