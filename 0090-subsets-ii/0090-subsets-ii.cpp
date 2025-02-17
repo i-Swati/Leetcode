@@ -4,9 +4,10 @@ public:
 void recur(vector<int>& nums, vector<int> currSub, set<vector<int>> &ans, int index){
     //base case
     if(index>=nums.size()){//we have reached the end of the array
-            sort(currSub.begin(), currSub.end());
+        vector<int> temp= currSub;
+        sort(temp.begin(), temp.end());
     
-        ans.insert(currSub); //subset found; include in array
+        ans.insert(temp); //subset found; include in array
 
         return;
     }
