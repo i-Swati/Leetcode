@@ -143,6 +143,7 @@
 | [0119-pascals-triangle-ii](https://github.com/i-Swati/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/i-Swati/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0322-coin-change](https://github.com/i-Swati/Leetcode/tree/master/0322-coin-change) |
+| [0979-di-string-match](https://github.com/i-Swati/Leetcode/tree/master/0979-di-string-match) |
 | [1364-tuple-with-same-product](https://github.com/i-Swati/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/i-Swati/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/i-Swati/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -217,6 +218,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/i-Swati/Leetcode/tree/master/0143-reorder-list) |
+| [0979-di-string-match](https://github.com/i-Swati/Leetcode/tree/master/0979-di-string-match) |
 ## Stack
 |  |
 | ------- |
@@ -261,6 +263,7 @@
 |  |
 | ------- |
 | [0889-buddy-strings](https://github.com/i-Swati/Leetcode/tree/master/0889-buddy-strings) |
+| [0979-di-string-match](https://github.com/i-Swati/Leetcode/tree/master/0979-di-string-match) |
 | [1160-letter-tile-possibilities](https://github.com/i-Swati/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/i-Swati/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/i-Swati/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -323,4 +326,8 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/i-Swati/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+## Greedy
+|  |
+| ------- |
+| [0979-di-string-match](https://github.com/i-Swati/Leetcode/tree/master/0979-di-string-match) |
 <!---LeetCode Topics End-->
