@@ -224,6 +224,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/i-Swati/Leetcode/tree/master/0143-reorder-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/i-Swati/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/i-Swati/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/i-Swati/Leetcode/tree/master/3447-clear-digits) |
 ## Recursion
 |  |
@@ -252,6 +253,7 @@
 | [0078-subsets](https://github.com/i-Swati/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/i-Swati/Leetcode/tree/master/0090-subsets-ii) |
 | [1160-letter-tile-possibilities](https://github.com/i-Swati/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/i-Swati/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/i-Swati/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bit Manipulation
 |  |
@@ -269,6 +271,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/i-Swati/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/i-Swati/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/i-Swati/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/i-Swati/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2580-circular-sentence](https://github.com/i-Swati/Leetcode/tree/master/2580-circular-sentence) |
 | [3447-clear-digits](https://github.com/i-Swati/Leetcode/tree/master/3447-clear-digits) |
 ## Matrix
@@ -330,4 +333,5 @@
 |  |
 | ------- |
 | [0979-di-string-match](https://github.com/i-Swati/Leetcode/tree/master/0979-di-string-match) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/i-Swati/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
