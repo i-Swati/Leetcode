@@ -156,6 +156,7 @@
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/i-Swati/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/i-Swati/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/i-Swati/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2551-apply-operations-to-an-array](https://github.com/i-Swati/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/i-Swati/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/i-Swati/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/i-Swati/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -219,6 +220,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/i-Swati/Leetcode/tree/master/0143-reorder-list) |
 | [0979-di-string-match](https://github.com/i-Swati/Leetcode/tree/master/0979-di-string-match) |
+| [2551-apply-operations-to-an-array](https://github.com/i-Swati/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -303,6 +305,7 @@
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/i-Swati/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2551-apply-operations-to-an-array](https://github.com/i-Swati/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/i-Swati/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/i-Swati/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/i-Swati/Leetcode/tree/master/3447-clear-digits) |
