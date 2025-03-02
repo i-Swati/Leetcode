@@ -157,6 +157,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/i-Swati/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/i-Swati/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/i-Swati/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/i-Swati/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/i-Swati/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/i-Swati/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/i-Swati/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -177,6 +178,7 @@
 | [2434-design-a-number-container-system](https://github.com/i-Swati/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/i-Swati/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/i-Swati/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/i-Swati/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/i-Swati/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/i-Swati/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Depth-First Search
@@ -221,6 +223,7 @@
 | [0143-reorder-list](https://github.com/i-Swati/Leetcode/tree/master/0143-reorder-list) |
 | [0979-di-string-match](https://github.com/i-Swati/Leetcode/tree/master/0979-di-string-match) |
 | [2551-apply-operations-to-an-array](https://github.com/i-Swati/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/i-Swati/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Stack
 |  |
 | ------- |
