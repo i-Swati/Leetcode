@@ -1,14 +1,17 @@
 class Solution {
 public:
     bool divideArray(vector<int>& nums) {
-    //TC= O(n log n)
+        unordered_map<int, int> freq;
 
-    sort(nums.begin(), nums.end());
-    for(int i= 0; i<nums.size(); i+= 2){
-        if(nums[i] != nums[i+1]){
-            return false;
+        for(int num: nums){
+            freq[num]++;
         }
-    }
-    return true;
+
+        for(auto &f: freq){
+            if(f.second % 2!= 0){
+                return false;
+            }
+        }
+        return true;
     }
 };
