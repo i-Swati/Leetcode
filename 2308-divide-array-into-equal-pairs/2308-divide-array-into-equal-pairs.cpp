@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool divideArray(vector<int>& nums) {
+        //TC= O(n)
         unordered_map<int, int> freq;
 
         for(int num: nums){
