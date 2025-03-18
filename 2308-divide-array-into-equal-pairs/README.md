@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/divide-array-into-equal-pairs">2308. Divide Array Into Equal Pairs</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code> consisting of <code>2 * n</code> integers.</p>
+<h2><a href="https://leetcode.com/problems/divide-array-into-equal-pairs">Divide Array Into Equal Pairs</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer array <code>nums</code> consisting of <code>2 * n</code> integers.</p>
 
 <p>You need to divide <code>nums</code> into <code>n</code> pairs such that:</p>
 
