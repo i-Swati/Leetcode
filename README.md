@@ -161,6 +161,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/i-Swati/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/i-Swati/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/i-Swati/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/i-Swati/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/i-Swati/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/i-Swati/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/i-Swati/Leetcode/tree/master/3429-special-array-i) |
@@ -348,6 +349,7 @@
 | ------- |
 | [0979-di-string-match](https://github.com/i-Swati/Leetcode/tree/master/0979-di-string-match) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/i-Swati/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/i-Swati/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Combinatorics
 |  |
 | ------- |
