@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros">3171. Minimum Equal Sum of Two Arrays After Replacing Zeros</a></h2><h3>Medium</h3><hr><p>You are given two arrays <code>nums1</code> and <code>nums2</code> consisting of positive integers.</p>
+<h2><a href="https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros">Minimum Equal Sum of Two Arrays After Replacing Zeros</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given two arrays <code>nums1</code> and <code>nums2</code> consisting of positive integers.</p>
 
 <p>You have to replace <strong>all</strong> the <code>0</code>&#39;s in both arrays with <strong>strictly</strong> positive integers such that the sum of elements of both arrays becomes <strong>equal</strong>.</p>
 
