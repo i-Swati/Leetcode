@@ -144,6 +144,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/i-Swati/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0322-coin-change](https://github.com/i-Swati/Leetcode/tree/master/0322-coin-change) |
 | [0979-di-string-match](https://github.com/i-Swati/Leetcode/tree/master/0979-di-string-match) |
+| [1293-three-consecutive-odds](https://github.com/i-Swati/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1364-tuple-with-same-product](https://github.com/i-Swati/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/i-Swati/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/i-Swati/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
