@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/divide-a-string-into-groups-of-size-k">2260. Divide a String Into Groups of Size k</a></h2><h3>Easy</h3><hr><p>A string <code>s</code> can be partitioned into groups of size <code>k</code> using the following procedure:</p>
+<h2><a href="https://leetcode.com/problems/divide-a-string-into-groups-of-size-k">Divide a String Into Groups of Size k</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>A string <code>s</code> can be partitioned into groups of size <code>k</code> using the following procedure:</p>
 
 <ul>
 	<li>The first group consists of the first <code>k</code> characters of the string, the second group consists of the next <code>k</code> characters of the string, and so on. Each element can be a part of <strong>exactly one</strong> group.</li>
