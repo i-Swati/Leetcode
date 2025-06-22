@@ -171,6 +171,7 @@
 | [3429-special-array-i](https://github.com/i-Swati/Leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/i-Swati/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/i-Swati/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/i-Swati/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
 | ------- |
@@ -190,6 +191,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/i-Swati/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/i-Swati/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/i-Swati/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/i-Swati/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -261,6 +263,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/i-Swati/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/i-Swati/Leetcode/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/i-Swati/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/i-Swati/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Number Theory
 |  |
 | ------- |
