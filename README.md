@@ -289,6 +289,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/i-Swati/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/i-Swati/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/i-Swati/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/i-Swati/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/i-Swati/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2580-circular-sentence](https://github.com/i-Swati/Leetcode/tree/master/2580-circular-sentence) |
 | [3194-find-words-containing-character](https://github.com/i-Swati/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -324,6 +325,7 @@
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/i-Swati/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/i-Swati/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/i-Swati/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2551-apply-operations-to-an-array](https://github.com/i-Swati/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/i-Swati/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/i-Swati/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
