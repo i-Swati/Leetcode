@@ -142,6 +142,7 @@
 | [0118-pascals-triangle](https://github.com/i-Swati/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/i-Swati/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/i-Swati/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0283-move-zeroes](https://github.com/i-Swati/Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/i-Swati/Leetcode/tree/master/0322-coin-change) |
 | [0979-di-string-match](https://github.com/i-Swati/Leetcode/tree/master/0979-di-string-match) |
 | [1293-three-consecutive-odds](https://github.com/i-Swati/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -232,6 +233,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/i-Swati/Leetcode/tree/master/0143-reorder-list) |
+| [0283-move-zeroes](https://github.com/i-Swati/Leetcode/tree/master/0283-move-zeroes) |
 | [0979-di-string-match](https://github.com/i-Swati/Leetcode/tree/master/0979-di-string-match) |
 | [2551-apply-operations-to-an-array](https://github.com/i-Swati/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/i-Swati/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
