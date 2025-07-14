@@ -230,6 +230,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/i-Swati/Leetcode/tree/master/0143-reorder-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/i-Swati/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -258,6 +259,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/i-Swati/Leetcode/tree/master/0007-reverse-integer) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/i-Swati/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/i-Swati/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/i-Swati/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/i-Swati/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
