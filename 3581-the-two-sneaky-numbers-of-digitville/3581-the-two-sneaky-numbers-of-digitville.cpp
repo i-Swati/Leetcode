@@ -1,18 +1,15 @@
 class Solution {
 public:
     vector<int> getSneakyNumbers(vector<int>& nums) {
-        map<int, int> mp;
-
-        //store nums with freq;
-        for(int i=0; i<nums.size(); i++){
-            mp[nums[i]]++;
-        }
+        int n= nums.size();
 
         vector<int> ans;
 
-        for(auto it:mp){
-            if(it.second==2){
-                ans.push_back(it.first);
+        for(int i= 0; i<n-1; i++){
+            for(int j= i+1; j<n; j++){
+                if(nums[i]==nums[j]){
+                    ans.push_back(nums[i]);
+                }
             }
         }
         return ans;
