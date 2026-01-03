@@ -200,6 +200,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/i-Swati/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/i-Swati/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/i-Swati/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/i-Swati/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -318,6 +319,7 @@
 | [2580-circular-sentence](https://github.com/i-Swati/Leetcode/tree/master/2580-circular-sentence) |
 | [3194-find-words-containing-character](https://github.com/i-Swati/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3447-clear-digits](https://github.com/i-Swati/Leetcode/tree/master/3447-clear-digits) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/i-Swati/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Matrix
 |  |
 | ------- |
