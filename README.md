@@ -281,6 +281,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/i-Swati/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/i-Swati/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3321-type-of-triangle](https://github.com/i-Swati/Leetcode/tree/master/3321-type-of-triangle) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/i-Swati/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/i-Swati/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/i-Swati/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/i-Swati/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -289,6 +290,7 @@
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/i-Swati/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/i-Swati/Leetcode/tree/master/2491-smallest-even-multiple) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/i-Swati/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -322,6 +324,7 @@
 | [2580-circular-sentence](https://github.com/i-Swati/Leetcode/tree/master/2580-circular-sentence) |
 | [3194-find-words-containing-character](https://github.com/i-Swati/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3447-clear-digits](https://github.com/i-Swati/Leetcode/tree/master/3447-clear-digits) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/i-Swati/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/i-Swati/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Matrix
 |  |
@@ -361,6 +364,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/i-Swati/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/i-Swati/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/i-Swati/Leetcode/tree/master/3447-clear-digits) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/i-Swati/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Design
 |  |
 | ------- |
@@ -397,6 +401,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/i-Swati/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/i-Swati/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
 | ------- |
